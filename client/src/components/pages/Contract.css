@@ -1,0 +1,66 @@
+/* Contract.css */
+.contract-page {
+    font-family: 'Kanit';
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+  }
+  
+  .logo {
+    width: 400px;
+    margin-right: 200px;
+    margin-left: 150px;
+  }
+  
+  .text-section {
+    max-width: 600px;
+  }
+  
+  .image-section {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .image {
+    width: 100%;
+    max-width: 1500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+  }
+  
+  .quote-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+  
+  blockquote {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 20px;
+    position: relative;
+    margin-left: 200px;
+  }
+  .quote-end {
+    display: block;
+    text-align: right; 
+  }
+  
+  .small {
+    width: 35%;
+    height: 300px;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+  }
+  
